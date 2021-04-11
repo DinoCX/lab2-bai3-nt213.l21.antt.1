@@ -1,0 +1,14 @@
+D:\Source\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Source\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Source\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Source\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Source\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Source\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Source\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Source\VirusB3\bin\Debug\ConsoleApp1.exe.config
+D:\Source\VirusB3\bin\Debug\ConsoleApp1.exe
+D:\Source\VirusB3\bin\Debug\ConsoleApp1.pdb
+D:\Source\VirusB3\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Source\VirusB3\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Source\VirusB3\obj\Debug\ConsoleApp1.exe
+D:\Source\VirusB3\obj\Debug\ConsoleApp1.pdb
